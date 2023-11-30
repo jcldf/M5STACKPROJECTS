@@ -27,7 +27,7 @@ Contributions are welcome! Feel free to fork the repository and submit your pull
 All projects are open-sourced under the [MIT License](LICENSE.md).
 
 ## Connect with Me
-- **GitHub:** [@juliodellaflora](https://github.com/jcldf)
+- **GitHub:** [jcldf](https://github.com/jcldf)
 - **LinkedIn:** [Julio Della Flora](https://www.linkedin.com/in/juliodellaflora/)
 - **Twitter:** [@jcldf](https://twitter.com/jcldf)
 
